@@ -1,0 +1,6 @@
+@SpecPattern_HostAddress = http://localhost:5068
+
+GET {{SpecPattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
